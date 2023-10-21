@@ -6,7 +6,7 @@
 
 ## 📰 프로젝트 소개
 
-DonDoc은 공동계좌 서비스를 통한 자산관리 서비스를 제공하는 플랫폼입니다.  <br> 
+Dondoc은 공동계좌 서비스를 통한 자산관리 서비스를 제공하는 플랫폼입니다.  <br> 
 이 플랫폼은 신뢰할 수 있는 사용자 간의 연결, 모임통장 기능을 이용한 더욱 간편해진 이체, 미션을 통한 목표 달성 및 성취를 제공합니다.  
 
 <br>
@@ -84,11 +84,9 @@ DonDoc은 공동계좌 서비스를 통한 자산관리 서비스를 제공하�
 <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
 <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-<img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </div>  <br>  
 
 <br>  
-
   
 ## 📊 ERD
 
@@ -115,7 +113,6 @@ DonDoc은 공동계좌 서비스를 통한 자산관리 서비스를 제공하�
 <br>  
 
 <br>  
-
 
 
 ## ✨ 팀원 소개
