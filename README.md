@@ -7,7 +7,7 @@
 ## 📰 프로젝트 소개
 
 Dondoc은 공동계좌 서비스를 통한 자산관리 서비스를 제공하는 플랫폼입니다.  <br> 
-이 플랫폼은 신뢰할 수 있는 사용자 간의 연결, 모임통장 기능을 이용한 더욱 간편해진 이체, 미션을 통한 목표 달성 및 성취를 제공합니다.  
+이 플랫폼은 신뢰할 수 있는 사용자 간의 연결 및 모임통장 기능을 이용한 더욱 간편해진 이체, 미션을 통한 목표 달성 및 성취를 제공합니다.  
 
 <br>
 
@@ -16,7 +16,7 @@ Dondoc은 공동계좌 서비스를 통한 자산관리 서비스를 제공하�
 
 <br>  
 
-## 💡 주요 기능
+## 💻 실행 화면
 
 ### 은행 서비스
 
@@ -34,20 +34,39 @@ Dondoc은 공동계좌 서비스를 통한 자산관리 서비스를 제공하�
 
 
 ### Dondoc 서비스
+|기본 금융 서비스|
+| --- |
+|![20240218_210225-removebg-preview](https://github.com/hanb613/Dondoc/assets/60910288/8bf76150-6d0f-4b3e-87e2-39d327f2f592)|
 
+<br>   
 
+#### 👨‍👨‍👦 모임 계좌 서비스
+|3가지 유형의 계좌 생성|
+| --- |
+|![22-removebg-preview](https://github.com/hanb613/Dondoc/assets/60910288/a1ae9e24-74ae-41ab-bdc6-a91782c99a44)|
+
+|권한에 따른 기능 차이|
+| --- |
+|![33-removebg-preview (1)](https://github.com/hanb613/Dondoc/assets/60910288/5bf52a06-dde2-412b-9eb1-ba649204b36d)
+관리자만이 모임 계좌의 현재 잔고를 조회 할 수 있습니다.|
+
+|송금 기능|
+| --- |
+|![44-removebg-preview](https://github.com/hanb613/Dondoc/assets/60910288/64273f95-6463-4523-8259-fa8ea72f1a6e)
+멤버는 모임 계좌에 대한 송금을 요청할 수 있고, <br> <b>관리자의 승인이 이루어져야 송금</b>이 이루어집니다. |
+
+|미션 기능|
+| --- |
+|![55-removebg-preview](https://github.com/hanb613/Dondoc/assets/60910288/778b4f9a-4bb5-4a8b-8615-ec507994e3df)
+관리자가 미션을 할당하거나, 멤버가 원하는 목표를 설정하여 미션금을 획득할 수 있습니다.|
+
+|마이데이터|
+| --- |
+|![66-removebg-preview](https://github.com/hanb613/Dondoc/assets/60910288/e633614d-6a1c-42b9-83dc-41a0efa72a45)
+이체 내역에 따른 데이터 시각화로 소비 패턴을 분석할 수 있습니다.|
 
 
 <br>  
-
-## 💻 실행 화면
-
-<!-- 
-|Dondoc 메인페이지|거래 내역 조회|계좌이체|
-| --- | --- | --- |
-|<img src="https://github.com/hanb613/Dondoc/assets/60910288/e47bc2d5-2075-43b6-9650-c87af914b886" width="250px" />|<img src="https://github.com/hanb613/Dondoc/assets/60910288/646a6cd2-f8ae-454b-9379-b178837051ff" width="250px" />|<img src="https://github.com/hanb613/Dondoc/assets/60910288/b6cfa5bb-74a6-47a9-af07-0a405c553a96" width="250px" />|
-
--->
 
 
 <br>  
